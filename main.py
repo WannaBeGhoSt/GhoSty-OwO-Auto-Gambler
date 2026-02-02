@@ -15,7 +15,7 @@ brutality_ghosty.system(
     else "timeout /t 2 >nul 2>&1 && cls"
 )
 
-print("Started GhoSty OwO Auto Gambler V2 - Async Development\nVer - 2.0.0.020226 © GhoSty")
+print("Started GhoSty OwO Auto Gambler V2 - Async Development\nVer - 020226.2.0.0 - GhoSty")
 
 GhoStyMainCommandDQ = {}
 
@@ -298,4 +298,5 @@ if __name__ == "__main__":
     try:
         asyncio.run(main())
     except KeyboardInterrupt:
+
         print("Shutting down...")
