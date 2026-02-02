@@ -35,7 +35,7 @@ python main.py
 
 - Start the bot
   `
-  .start
+  .start 1,2,3 from controller
   `
 
 ## 👤 Author  
@@ -52,4 +52,5 @@ Contributions, issue reports, and feature suggestions are welcome! Feel free to 
 
 - **🚫 Re-Selling or Redistributing this code will result in a ban.**
 - **⚠️ Use this project responsibly. The author is not responsible for any misuse or violations of Discord's Terms of Service.**
+
 
