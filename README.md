@@ -10,7 +10,8 @@ A Python-based Discord self-bot that is focused on OwO Bot's Gamble Automation.
 
 - 🚨 **No Guarantee** - The Author Does Not Guarantee Any Continuous Wins Or Loop Holes To Win Again And Again In The Gambling.
 - 🔄 **Automation** - Automates OwO's CoinFlip For Gambling OwO Cash.
-- ⚡ **Fast & Secure** – Optimized for speed and security.  
+- ⚡ **Fast & Secure** – Optimized for speed and security.
+- 🎭 **Multi Token Support** - Can be used on multiple accounts at once.
 
 ## 📖 Installation & Usage  
 
@@ -51,3 +52,4 @@ Contributions, issue reports, and feature suggestions are welcome! Feel free to 
 
 - **🚫 Re-Selling or Redistributing this code will result in a ban.**
 - **⚠️ Use this project responsibly. The author is not responsible for any misuse or violations of Discord's Terms of Service.**
+
